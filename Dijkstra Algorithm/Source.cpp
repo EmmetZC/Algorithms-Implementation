@@ -98,7 +98,7 @@ list<Node> initWaiting(int start, int end, vector<vector<int>> &dists)
 		}
 		else
 		{
-			Node n = Node(i, 0, dists[start][i]);
+			Node n = Node(i, start, dists[start][i]);
 			Waiting.push_back(n);
 		}
 	}

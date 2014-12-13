@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Floyd Warshall", "Floyd Warshall\Floyd Warshall.vcxproj", "{FAF44A10-B3AA-472E-8695-A8F78D831BA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra Algorithm", "Dijkstra Algorithm\Dijkstra Algorithm.vcxproj", "{0C5EAE6F-8D5A-4F59-8815-13F19DCC50E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{FAF44A10-B3AA-472E-8695-A8F78D831BA2}.Debug|Win32.Build.0 = Debug|Win32
 		{FAF44A10-B3AA-472E-8695-A8F78D831BA2}.Release|Win32.ActiveCfg = Release|Win32
 		{FAF44A10-B3AA-472E-8695-A8F78D831BA2}.Release|Win32.Build.0 = Release|Win32
+		{0C5EAE6F-8D5A-4F59-8815-13F19DCC50E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C5EAE6F-8D5A-4F59-8815-13F19DCC50E4}.Debug|Win32.Build.0 = Debug|Win32
+		{0C5EAE6F-8D5A-4F59-8815-13F19DCC50E4}.Release|Win32.ActiveCfg = Release|Win32
+		{0C5EAE6F-8D5A-4F59-8815-13F19DCC50E4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
